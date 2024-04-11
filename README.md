@@ -1,10 +1,7 @@
 # ALLWays
 > 자신이 가고 싶거나 가보았던 곳을 저장하고 기록하면 친구에게 공유하여 함께 위치를 찾아볼 수 있는 서비스를 제공합니다. 
 ## 프로젝트 개요
-- 개발 기간: 2023.04.10 ~ 2023.07.11
-- 본 프로젝트의 구조를 더 자세히 알고 싶다면?
-  - [백엔드 README](./backend.md)
-  - [프론트엔드 README](./frontend.md)
+- 개발 기간: 2023.03 ~ 2023.06
 
 ## 기술 스택
 `Front-End` :  <img src="https://img.shields.io/badge/javascript-3178C6?style=flat-square&logo=javascript&logoColor=#F7DF1E"/>
