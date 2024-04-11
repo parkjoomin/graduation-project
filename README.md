@@ -20,7 +20,7 @@
 
 ## 프로젝트 구조
 
-## 사용 라이브러리및 API
+## 사용 라이브러리 및 API
 - 카카오지도 API
 
 
@@ -29,7 +29,7 @@
 1. 프로젝트 레포지토리를 클론합니다.
 
 ```sh
-$ git clone [https://github.com/jungseok0815/ALLWays.git]
+$ git clone [https://github.com/parkjoomin/graduation-project.git]
 ```
 
 2. 프로젝트 실행에 필요한 패키지를 설치합니다.
