@@ -1,0 +1,56 @@
+body {
+  background-color: #A4C1DE;
+}
+
+.outer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.box {
+  background-color: white;
+  width: 480px;
+  height: 600px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+}
+
+.content-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px; /* 각 요소 사이의 간격 설정 */
+}
+
+.welcome-image {
+  width: 380px;
+  height: 380px;
+  border-radius: 50px;
+}
+
+.mainp {
+  text-align: center;
+  font-weight: bold;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+}
+
+.buttons button {
+  width: 180px;
+  height: 40px;
+  border: none;
+  border-radius: 5px;
+  background-color: rgba(051, 82, 143, 0.8);
+  color: white;
+  font-weight: bold;
+  font-size: 14px;
+  letter-spacing: 9px;
+}
